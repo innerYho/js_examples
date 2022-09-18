@@ -1,2 +1,2 @@
 # js_examples
-many possible to use js &lt;3
+Many possible to use js &lt;3
